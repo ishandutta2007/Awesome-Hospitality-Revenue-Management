@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Duetto](https://www.duetto.com/)**  
-
-  Leading hospitality revenue platform known for Open Pricing, real-time decisioning, and strong adoption among upscale independents, groups, and casino hotels.
-
-
-
-- **[IDeaS (SAS)](https://ideas.com/)**  
-
-  Enterprise-grade revenue management system (G3 and successors) widely deployed at major chains for demand forecasting, pricing, and total revenue optimization.
-
-
-
-- **[Atomize](https://www.atomize.com/)**  
-
-  Real-time, AI-oriented RMS (now part of SiteMinder) popular with independents and small groups seeking automated pricing with minimal manual intervention.
-
-
-
-- **[Pace Revenue](https://www.pacerevenue.com/)**  
-
-  Revenue management and pricing platform focused on data-driven rate recommendations for hotels.
-
-
-
-- **[BEONx](https://beonx.com/)**  
-
-  Hospitality revenue and pricing intelligence platform used by hotels seeking modern RMS capabilities.
-
-
-
-- **[RoomPriceGenie](https://www.roompricegenie.com/)**  
-
-  Highly rated RMS aimed at independent and smaller hotels — strong autopilot pricing, ease of use, and value for properties without a full-time revenue manager.
-
-
-
-- **[RateGain](https://rategain.com/)**  
-
-  Hospitality technology company offering revenue management, rate intelligence, and distribution-related solutions.
-
-
-
-- **[Infor EzRMS](https://www.infor.com/)**  
-
-  Enterprise revenue management capabilities within the broader Infor hospitality suite.
-
-
-
-- **[OTA Insight / Lighthouse](https://www.lighthouse-hq.com/)**  
-
-  Market intelligence and rate-shopping platform widely used by revenue managers for competitor and market visibility (often paired with an RMS).
-
-
-
-- **[Lybra Tech](https://www.lybra.tech/)**  
-
-  AI-driven revenue management platform for hotels focused on pricing automation and performance improvement.
+| Platform | Description | Starting Price | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Duetto](https://www.duetto.com/)** | Cloud-native hospitality revenue platform known for Open Pricing, real-time dynamic decisioning, multi-property forecasting, and casino/upscale hotel optimization. | ~$1,000 / month (base tier depending on room count and property type) | No free forever tier; live personalized demo and customized product walkthrough available upon request (0 trial days). |
+| **[IDeaS (SAS)](https://ideas.com/)** | Enterprise-grade RMS (G3 RMS) providing demand forecasting, continuous automated pricing, and total RevPAR management for independent hotels and large chains. | ~$1,200 / month (base tier for independent and boutique properties) | No free forever tier; guided interactive demo and custom pilot evaluation on request (0 trial days). |
+| **[Atomize](https://www.atomize.com/)** | Real-time, AI-driven RMS (part of SiteMinder) specializing in automated dynamic rate setting with minimal manual intervention for independent and boutique hotels. | €299 / month (~$325 / month for entry-level tier / smaller properties) | No free forever tier; live interactive pilot and product demonstration upon request (0 trial days). |
+| **[FLYR Hospitality (Pace)](https://www.pacerevenue.com/)** | AI-driven revenue management and commercial intelligence engine offering continuous pricing recommendations and granular demand forecasting. | ~$700 / month (base platform tier; or ~€4.00–€13.00/room/month) | No free forever tier; custom platform walkthrough and revenue simulation upon request (0 trial days). |
+| **[BEONx](https://beonx.com/)** | Total revenue management and Hotel Quality Index (HQI) pricing platform focused on optimizing RevPAR, occupancy, and guest lifetime value. | ~$800 / month (base tier for mid-size properties) | No free forever tier; customized live proof-of-concept demonstration available upon request (0 trial days). |
+| **[RoomPriceGenie](https://www.roompricegenie.com/)** | Automated dynamic pricing platform built specifically for independent hotels, boutique properties, B&Bs, and serviced apartments. | $119 / month (Core plan, billed annually; $139/month billed monthly) | 14-day free trial with full platform access, complimentary onboarding, and no credit card required. |
+| **[RateGain](https://rategain.com/)** | Hospitality rate intelligence, real-time rate shopping (Navigator), distribution, and revenue optimization suite. | $25 / month (entry-level Navigator rate shopper tier; bundle plans ~$400/month) | 14-day free trial for Navigator rate shopper with competitive set tracking; demo available for enterprise RMS. |
+| **[Infor EzRMS](https://www.infor.com/)** | Enterprise revenue management software featuring demand forecasting and optimization algorithms integrated with the Infor Hospitality suite. | ~$950 / month (base tier for standard hotel deployments) | No free forever tier; tailored enterprise consultation and guided software demo on request (0 trial days). |
+| **[Lighthouse (OTA Insight)](https://www.lighthouse-hq.com/)** | Market intelligence, rate-shopping, and pricing platform providing real-time competitor tracking and forward-looking demand signals. | $59 / month (entry-level Rate Insight tier; Pricing Manager tiers scale up) | Free trial upon request (typically 7–14 days customized compset access) + free Market Alerts tier with 90 days of market trend data. |
+| **[Lybra Tech](https://www.lybra.tech/)** | AI-powered Assistant RMS delivering real-time demand collection, automated competitor rate tracking, and dynamic pricing suggestions. | $400 / month (base tier for single properties) | No free forever tier; 1-on-1 personalized live demonstration and revenue assessment upon request (0 trial days). |
 
 
 
