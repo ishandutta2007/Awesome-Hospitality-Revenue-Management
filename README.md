@@ -59,7 +59,7 @@ Below is a comparison of commercial Hospitality Revenue Management Systems, sort
 
 Open-source building blocks for hotel property management, demand forecasting, rate shopping scrapers, dynamic pricing simulation, and revenue analytics, **sorted in descending order by GitHub Stars**:
 
-| Project | Stars | Category | Description |
+| Project | Github_Stars | Category | Description |
 | :--- | :--- | :--- | :--- |
 | **[Apache Superset](https://github.com/apache/superset)** | [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | BI & Analytics | Enterprise-ready data exploration and visualization platform ideal for hotel pace, pickup, RevPAR, and ADR dashboards. |
 | **[Scrapy](https://github.com/scrapy/scrapy)** | [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers) | Rate Intelligence | Fast, high-level web crawling and scraping framework used to build custom OTA and competitor rate-shopping engines. |
